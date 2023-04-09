@@ -27,7 +27,7 @@ Une fois le fichier .py executer, l'interface graphique s'ouvre vous pouvez alor
 * Etape +1: pour avancer d'une unité de temps
 * i : pour avoir des informations complémentaires
 
-## Interpréation de l'interface graphique
+## Interprétation de l'interface graphique
 Voici la signification des couleurs présentes lors de la simulation:
 * Gris: siège vide
 * Vert: passager assis
